@@ -31,3 +31,5 @@ This project allows users to scrape images from Google Images based on a specifi
 2. Insert keywork, the code will run automatically
 
 3. The **image_data.csv** will be created in the **images** folder for analyzing
+
+## Adjust **time delay** and **number of images** at urls = get_images_from_google(driver, 0.5, 5)
