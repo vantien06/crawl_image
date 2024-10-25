@@ -29,3 +29,5 @@ This project allows users to scrape images from Google Images based on a specifi
    python crawl_gg_image
 
 2. Insert keywork, the code will run automatically
+
+3. The **image_data.csv** will be created in the **images** folder for analyzing
